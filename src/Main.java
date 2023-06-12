@@ -1,6 +1,4 @@
-
-import src.SalesManager;
-
+package src;
 public class Main {
     public static void main(String[] args) {
         int[] salesData = {5, 12, 20, 8, 15, 30, 12, 18};
